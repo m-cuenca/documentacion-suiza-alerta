@@ -35,25 +35,27 @@ PKG_SAP_VENTA. USP_RUC_PEND_ENVIO_SAP (Permite obtener todos los registros que e
 ### Data de ejemplo
 
 ```
-{
-    "RUC": "20144364059",
-    "RAZON_SOCIAL": "FUERZA AEREA DEL PERU - FOSFAP",
-    "TELCIA": "990184694",
-    "CELCIA": "990184694",
-    "CELCONT1": "998867016",
-    "EMACONT1": "",
-    "COMENTARIO": "Servicio windows (cia fact)",
-    "TIPODOC": "6",
-    "SAP_TIPO_PER": "TPJ",
-    "GRUPO": "100",
-    "PATERNO": "",
-    "MATERNO": "",
-    "NOMBRES": "",
-    "DIRCIA": "AV. LA PERUANIDAD NRO. SN CAMPO DE MARTE (NOTIF. A DIRECCION GENERAL DE ECONOMIA)",
-    "DISTRITO": "JESUS MARIA",
-    "COD_FORPAG": "002",
-    "SAP_GRUPO_PAGO": "FACTURA%",
-    "NUM_DIAS": "60",
-    "ESTADO_REG_SAP": "M"
-}
+[
+    {
+        "RUC": "20144364059",
+        "RAZON_SOCIAL": "FUERZA AEREA DEL PERU - FOSFAP",
+        "TELCIA": "990184694",
+        "CELCIA": "990184694",
+        "CELCONT1": "998867016",
+        "EMACONT1": "",
+        "COMENTARIO": "Servicio windows (cia fact)",
+        "TIPODOC": "6",
+        "SAP_TIPO_PER": "TPJ",
+        "GRUPO": "100",
+        "PATERNO": "",
+        "MATERNO": "",
+        "NOMBRES": "",
+        "DIRCIA": "AV. LA PERUANIDAD NRO. SN CAMPO DE MARTE (NOTIF. A DIRECCION GENERAL DE ECONOMIA)",
+        "DISTRITO": "JESUS MARIA",
+        "COD_FORPAG": "002",
+        "SAP_GRUPO_PAGO": "FACTURA%",
+        "NUM_DIAS": "60",
+        "ESTADO_REG_SAP": "M"
+    }
+]
 ```
